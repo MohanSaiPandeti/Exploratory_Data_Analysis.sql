@@ -22,6 +22,7 @@ This repository contains an exploratory data analysis (EDA) using SQL on a datas
 
 ## Author
 - Mohan Sai
+- Passionate about Data Analysis
 - ---
-> Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) | 🌐 Portfolio: [TheDataAnalystX](https://yourwebsite.com)
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/mohansaipandeti) |
 
