@@ -21,7 +21,7 @@ This repository contains an exploratory data analysis (EDA) using SQL on a datas
 - Date functions (YEAR, SUBSTRING)
 
 ## Author
-- Mohan Sai
+- **Mohan Sai**
 - Passionate about Data Analysis
 - ---
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/mohansaipandeti) |
